@@ -1,5 +1,5 @@
-BFDI physics toy
+Never dig down physics toy
 ================
 
-A web toy featuring BFDI characters.
+A web toy featuring NDD characters.
 
